@@ -2,7 +2,7 @@
 
 I'm a Data Enthusiast having a deep passion for **Data Science**, **Data Analysis**, and **Financial Analysis**.<br>
 Currently, I'm diving into **Machine Learning**, exploring its vast potential to drive insights and innovation. <br>
-I’m particularly excited about opportunities to **collaborate on deploying and creating ML models**.
+I’m particularly excited about opportunities to **collaborate on deploying and creating ML models** along with **Exploratory Data Analysis**.
 
 ### What I’m Working On:
 - **Machine Learning:** Enhancing my skills and understanding of machine learning algorithms and their applications.
