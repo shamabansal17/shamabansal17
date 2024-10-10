@@ -1,5 +1,5 @@
 ## Hi there, I'm Shama Bansal! 👋
-I am a self motivated individual currently pursuing a Master's in **Data Science, Machine Learning & Artificial Intelligence**. With a strong foundation built through two internships and a prior Master's degree, I bring a unique perspective as a late starter in this rapidly evolving field. 
+I am a self motivated individual currently pursuing a Master's in Science: **Data Science, Machine Learning & Artificial Intelligence** from **Scaler Neovarsity | Woolf Institute, Europe**. With a strong foundation built through two internships and a prior Master's degree, I bring a unique perspective as a late starter in this rapidly evolving field. 
 I am eager to leverage my growing expertise in **Data Science**, **Data Analysis**, **Financial Analysis** and **Machine Learning** to contribute to impactful projects.
 Currently, I'm diving into **Machine Learning**, exploring its vast potential to drive insights and innovation. <br>
 I’m particularly excited about opportunities to **collaborate on deploying and creating ML models** along with **Exploratory Data Analysis**.
